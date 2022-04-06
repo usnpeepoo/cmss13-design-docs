@@ -1,10 +1,6 @@
-[Original version (made by Mothblocks)](https://hackmd.io/@tgstation/BkzmU9EyK)
-Changes in this one: Example has been changed to be focused on CM-SS13 gameplay.
-
----
-title: How to Write a Good Design Doc
----
 # How to Write a Good Design Doc
+
+[Original version (made by Mothblocks)](https://hackmd.io/@tgstation/BkzmU9EyK)
 
 Design docs are crucially important for any large feature, and beneficial even for smaller ones. It's important to know not just what you're adding, but *why*. As maintainers, we'll know better how your ideas will improve the game, as well as being able to help iron out your design. This will also help future developers not to add/remove content that doesn't align with the principles of your feature, as otherwise they'd just have to guess.
 
