@@ -15,7 +15,7 @@ The [template](https://github.com/cmss13-devs/cmss13-design-docs/blob/main/guide
 
 ### Head Developer and Project Manager
 
-The Head Developer and Project Manager are responsible for controlling, adding, and removing maintainers from the project. In addition to filling the role of a normal maintainer, they have sole authority on who becomes a maintainer, as well as who remains a maintainer and who does not.
+The Head Developer and Project Manager are responsible for controlling, adding, and removing gameplay architects from the project. In addition to filling the role of a normal gameplay architect, they have sole authority on who becomes a gameplay architect, as well as who remains a gameplay architect and who does not.
 
 ### Gameplay Architects
 
