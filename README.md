@@ -46,4 +46,4 @@ All documents are assumed to be licensed under CC BY-NC-SA 4.0 unless stated oth
 
 ## Banned content
 Do not add any of the following in a Pull Request or risk getting the PR closed:
-* Design which violates GitHub's [terms of service](https://github.com/site/terms).
+* Content which violates GitHub's [terms of service](https://github.com/site/terms).
