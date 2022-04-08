@@ -1,6 +1,6 @@
 ## Abstract
 
-War Correspondent is a journalist role, meant to be a sort've independent/marine aligned CL. It's meant to provide more roleplay opportunities and add more flavour. It provides more opportunities because it's contextually different from CL who is usually maligned by Marine players, with this role it'll be completely different as WC starts with 0 W-Y affiliation and probably won't get such derision, along with just being a contextually different role with different objectives than the CL. 
+War Correspondent is a journalist role, able to pick at the beginning of the round whether it's marine aligned or independent (The only difference being one can take orders from an XO and gets a rank, with the other not having a military rank). It's meant to provide more roleplay opportunities and add more flavour. It provides more opportunities because it's contextually different from CL who is usually maligned by Marine players, with this role it'll be completely different as WC starts with 0 W-Y affiliation and probably won't get such derision, along with just being a contextually different role with different objectives than the CL. 
 
 ## Goals
 
@@ -15,7 +15,9 @@ War Correspondent is a journalist role, meant to be a sort've independent/marine
 
 ## Content
 
-Roleplay role similar to CL but gets their own vendor and armor for deployment, similar to PFC in that way but is contextually different and not provided enough to be a complete match for PFC, leading to more roleplay and less PFC'ing. TLDR it's designed to be like an actual War Correspondent, not focused on shooting things but rather doing Journalism, still being provided with tools to defend themselves
+Roleplay role similar to CL but gets their own vendor and armor for deployment, similar to PFC in that way but is contextually different and not provided enough to be a complete match for PFC, leading to more roleplay and less PFC'ing. I expect people to get creative like with CL and try to make entertaining roleplay scenarios, whether it be interviewing people or getting together group photos.
+
 ## Alternatives
 
-Literally any roleplay job that isn't immediatly affiliated with a faction and has similar gameplay to CL (Sandbox mode) would fufill this goal in the same way. Only thing I can think of similar to WC is the PMC bodyguard that SuperReallyCoolGuy was gonna make, other than that I got nothing.
+It cant be forced into a marine alignment as that would defeat the entire point of the role being created and instantly put them at odds with the CL who usually goes against the marines in some fashion (faxes, etc). It also can't be W-Y aligned because that would just make it CL 2.0. There have been suggestions to not give them guns/ammo but making the role defenseless serves no purpose other than potential "realism" which isn't necessary.
+
