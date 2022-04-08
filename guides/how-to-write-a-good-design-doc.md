@@ -54,7 +54,7 @@ Provide potential alternatives to your feature, either ones that align with your
 
 ### Example
 
-- Having the commander of each operation hand out specialist kits to players. This would make the specialist role a lot less fair as it would be handed out based on player experience, meaning that new players would not be able to try out this role.
+- Having the commander of each operation hand out specialist kits to players. This would make the specialist role a lot less fair as it would be handed out based on player experience, meaning that new players would not be able to try out this role. This would go against goal #1 as it wouldn't be fair to less known players who may not be as recognised as other players who often play specialist.
 
 ## Potential Changes
 
