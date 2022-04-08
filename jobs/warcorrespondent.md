@@ -19,7 +19,3 @@ Roleplay role similar to CL but gets their own vendor and armor for deployment, 
 ## Alternatives
 
 Literally any roleplay job that isn't immediatly affiliated with a faction and has similar gameplay to CL (Sandbox mode) would fufill this goal in the same way. Only thing I can think of similar to WC is the PMC bodyguard that SuperReallyCoolGuy was gonna make, other than that I got nothing.
-## Potential Changes
-
-Add more stuff to the Journalists camera, possibly give them some other unique features.
-When WC players spawn in they get a choice from either Marine or Independent which sets them on their alignment for the round, they get a whole new office, vendor, and new clothes. A new fancy camera also spawns in there that can take more photos then other cameras. Also with this MR I've changed camera code a bit to include the amount of photos left whenever you examine a camera.
