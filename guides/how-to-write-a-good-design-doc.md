@@ -46,8 +46,6 @@ Just like goals, but the opposite! Every feature has boundaries it won't step ov
 
 Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible.
 
-This shouldn't be under a "Content" header, that's just for the sake of this document.
-
 ## Alternatives
 
 Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that.
