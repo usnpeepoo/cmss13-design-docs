@@ -8,6 +8,10 @@
 
 <!-- This is a numbered list clearly detailing your goals for the feature. As per usual, this should be a mixture of both why and what. -->
 
+## Non-goals
+
+<!-- Just like goals, but the opposite! Every feature has boundaries it won't step over. These should be written as if they start with "We will not...". -->
+
 ## Content
 
 <!-- Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible. -->
