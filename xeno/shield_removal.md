@@ -4,6 +4,14 @@
 
 Removing shields is something that's been requested for a long time. It will primarily involve removing shields from all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
 
+Clarity stacks are limited effect stacks that let xenos resist minor stuns, can be seen on boxer warrior.
+
+Warden is a xeno that provides short-term buffs or heals. (not long term spam shields)
+
+Shaman is a xeno that provides short-term AOE buffs or AOE heals. (not long term shields for the entire hive such as in hijack)
+
+Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambusher role with a preferably higher focus on frontlining.
+
 ## Reasons
 
 Here I will go into more detail about the reasons to remove + overhaul shields. Copy pasted from my previous google doc.
@@ -62,8 +70,6 @@ Shield fruit to be replaced with another type of short-term buff fruit (such as 
 
 
 ## Alternatives
-
-<!-- Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that. -->
 
 Good alternatives:
 
