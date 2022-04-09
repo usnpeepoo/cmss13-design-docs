@@ -19,6 +19,7 @@ Roleplay role similar to CL but gets their own vendor and armor for deployment, 
 ## Alternatives
 
 Literally any roleplay job that isn't immediatly affiliated with a faction and has similar gameplay to CL (Sandbox mode) would fufill this goal in the same way. Only thing I can think of similar to WC is the PMC bodyguard that SuperReallyCoolGuy was gonna make, other than that I got nothing.
+
 ## Potential Changes
 
 Add more stuff to the Journalists camera, possibly give them some other unique features.
