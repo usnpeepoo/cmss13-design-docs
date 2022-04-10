@@ -2,7 +2,9 @@
 
 <!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
 
-Removing shields is something that's been requested for a long time. It will primarily involve removing shields from all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
+Reworking shields is something that's been requested for a long time. It will primarily involve reworking shields shields on all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
+
+Shields will be reworked into a wider variety of "buff abilities".
 
 Shields, or buffs like them, exist to give xenos more durability and strength - basically to increase their survivability not in the form of a simple heal. It should be clear to players when this xeno is more durable, and should also not persist off the frontline or majorly interfere with how you fight a specific caste when they are applied. 
 
@@ -20,13 +22,15 @@ Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambushe
 
 ## Goals
 
-1. To severely limit the number of castes that can possibly have shields, and make them all have clear telegraphs. This is accomplished by only leaving it on rav and crusher, which have said mechanics.
+1. To replace shields with buff abilities
 
-2. To remove the ability of all other castes to get shields in normal gameplay. Accomplished by removing from warden and carrier
+2. To make said buff abilities intuitive and well telegraphed
 
-3. To improve the game experience via making the reasons for shield removal irrelevant (by removing shields)
+3. To make said buff abilities increase survivability and durability but not persist off the front line / long after they are applied.
 
-4. Make buffs that are intutive for both marines and xenos, and are telegraphed well.
+4. To use a variety of buff abilities that are not underpowered or essential for engagements (xenos should not rely on them)
+
+5. To not add buff abilities to new castes that did not have them previously.
 
 ## Non-goals
 
@@ -81,7 +85,7 @@ Bad alternatives:
 
 1. "Just change shields to extra health" - doesn't give them a telegraph, is equally inconsistent and has the same problems as shields
 
-2. "Just fix the problems with shields" - boring, would result in the game being even more arcade-y (shields are already EXTREMELY arcade-y), the goal of rectifying the reasons for removal can't really be accomplished without removal.
+2. "Just fix the problems with shields" - boring, would result in the game being even more arcade-y (shields are already EXTREMELY arcade-y), the goal of rectifying the reasons for this rework to buff abilities can't really be accomplished without it.
 
 3. "Just give shields glows and nerf them slightly" - see above
 
