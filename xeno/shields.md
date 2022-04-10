@@ -2,13 +2,13 @@
 
 <!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
 
-Reworking shields is something that's been requested for a long time. It will primarily involve reworking shields shields on all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
+Reworking shields is something that's been requested for a long time. It primarily involves reworking shields shields on all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
 
-Shields will be reworked into a wider variety of "buff abilities".
+Shields are reworked into a wider variety of "buff abilities".
 
 Shields, or buffs like them, exist to give xenos more durability and strength - basically to increase their survivability not in the form of a simple heal. It should be clear to players when this xeno is more durable, and should also not persist off the frontline or majorly interfere with how you fight a specific caste when they are applied. 
 
-A "buff ability" is a replacement for shields, and is the name I will use to refer to any ability that can replace shields.
+A "buff ability" is a replacement for shields, and is the name that is used to refer to any ability that can replace shields.
 
 Clarity stacks are limited effect stacks that let xenos resist minor stuns, can be seen on boxer warrior. These can be used as replacement buffs for shields
 
@@ -34,7 +34,7 @@ Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambushe
 
 ## Non-goals
 
-1. Majorly affect side balance. This design does not aim to make a side stronger or weaker with this, which is why every caste will get compensatory buffs.
+1. Majorly affect side balance. This design does not aim to make a side stronger or weaker with this, which is why every caste gets compensatory buffs.
 
 2. Make warrior weak while frontlining. See above.
 
