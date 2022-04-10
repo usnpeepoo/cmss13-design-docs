@@ -36,7 +36,7 @@ Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambushe
 
 1. Majorly affect side balance. This design does not aim to make a side stronger or weaker with this, which is why every caste gets compensatory buffs.
 
-2. Make warrior weak while frontlining. See above.
+2. Make warrior too squishy on the front-line and unable to stay there for any longer amount of time due to a lack of buff ability or shield
 
 3. Majorly handhold xenos with these buffs or make them required for engagements (think xenos afking in the hive for maturity - we don't want xenos to have to afk for buffs before going into a fight)
 
