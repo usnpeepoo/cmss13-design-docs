@@ -5,7 +5,7 @@ War Correspondent is a journalist role, able to pick at the beginning of the rou
 ## Goals
 
 1. Create a role that's interesting and provides new oppirtunities along with spicing up the game, the WC is contextually different from any other role in the game, providing leeway for players to get creative with the way they play their character in this role.
-2. Create a roleplay-centric role that's differentiated from the CL enough to be its own thing
+2. Create a roleplay-centric role that's different enough from the CLto be its own thing, 
 
 ## Non-goals
 
@@ -15,10 +15,14 @@ War Correspondent is a journalist role, able to pick at the beginning of the rou
 
 ## Content
 
-Roleplay role similar to CL but gets their own vendor and armor for deployment, similar to PFC in that way but is contextually different and not provided enough to be a complete match for PFC, leading to more roleplay and less PFC'ing. I expect people to get creative like with CL and try to make entertaining roleplay scenarios, whether it be interviewing people or getting together group photos.
+Roleplay role similar to CL but gets their own vendor and armor for deployment, similar to PFC in that way but is contextually different and not provided enough to be a complete match for PFC, leading to more roleplay and less PFC'ing. It's expected that people will get creative like with CL and try to make entertaining roleplay scenarios, whether it be interviewing people or getting together group photos.
 
 ## Alternatives
 
-## Potential Changes
-It cant be forced into a marine alignment as that would defeat the entire point of the role being created and instantly put them at odds with the CL who usually goes against the marines in some fashion (faxes, etc). It also can't be W-Y aligned because that would just make it CL 2.0. There have been suggestions to not give them guns/ammo but making the role defenseless serves no purpose other than potential "realism" which isn't necessary.
+This is such a specific role niche that thinking of an alternative is very difficult, Head dev specifically requested the ability to choose alignment at roundstart as such removing that feature isn't possible. The only other suggested change was to remove their weaponry, which wouldn't do much of anything other than forcing them to head to req at roundstart.
 
+## Potential Changes
+Gear may need to be tweaked to be appropriate for the role. 
+Camera might need to be tweaked to be more unique from other variations.
+Sprites could be changed depending on feedback from reviewers.
+Role may face issues that CL faces like people complaining about lack of an incentive to do things.
