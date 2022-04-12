@@ -19,5 +19,6 @@ Roleplay role similar to CL but gets their own vendor and armor for deployment, 
 
 ## Alternatives
 
+## Potential Changes
 It cant be forced into a marine alignment as that would defeat the entire point of the role being created and instantly put them at odds with the CL who usually goes against the marines in some fashion (faxes, etc). It also can't be W-Y aligned because that would just make it CL 2.0. There have been suggestions to not give them guns/ammo but making the role defenseless serves no purpose other than potential "realism" which isn't necessary.
 
