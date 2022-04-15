@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Research is currently suffering due to lack of care about it ever since the introduction of Techwebs/Removal of DEFCON. Currently it is functional at a minimum and with the lack of features, it rarely ever changes the round flow. Research should be a department side project of the USCM capable of providing buffs to marines, debuffs/buffs to xenos and unique mechanics such as corrupted xenomorphs and being able to reverse engineer Predator technology to provide something in return.
+Research should be a department side project of the USCM capable of providing buffs to marines, debuffs/buffs to xenos and unique mechanics such as corrupted xenomorphs and being able to reverse engineer Predator technology to provide something in return.
  First act of rejuvenation is including new features that researchers can do and provide more co-operation between OT and the marines.
 
 ## Goals
