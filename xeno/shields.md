@@ -2,23 +2,11 @@
 
 <!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
 
-Reworking shields is something that's been requested for a long time. It primarily involves reworking shields shields on all castes (other than rav and crusher) and replacing them with other abilities or miscellaneous balance changes. There are a variety of detailed reasons explained in the reasons section below.
+A wider variety of "buff abilities" is used instead of shields. These are applied to limited castes, mainly drone evos and prae.
 
-Shields are reworked into a wider variety of "buff abilities".
+Buff abilities are explained further below. Shields are kept for castes that only give them to themselves.
 
-Shields, or buffs like them, exist to give xenos more durability and strength - basically to increase their survivability not in the form of a simple heal. It should be clear to players when this xeno is more durable, and should also not persist off the frontline or majorly interfere with how you fight a specific caste when they are applied. 
-
-A "buff ability" is a replacement for shields, and is the name that is used to refer to any ability that can replace shields.
-
-Clarity stacks are limited effect stacks that let xenos resist minor stuns, can be seen on boxer warrior. These can be used as replacement buffs for shields
-
-Warden is a xeno that can provide, as one of its abilities, short-term buffs or heals. (not long term spam shields)
-
-Shaman is a xeno that can provide, as one of its abilities, short-term AOE buffs or AOE heals. (not long term shields for the entire hive such as in hijack)
-
-Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambusher role with a preferably higher focus on frontlining. It is not a xeno that can easily stay far away from the main frontline without nearby weeds or assistance like lurker, it is not a xeno that can very easily disengage and run away like lurker. 
-
-
+Shields are integrated, in some cases, into these buff abilities.
 
 ## Goals
 
@@ -56,6 +44,18 @@ Buff abilities to be limited to praetorians, carriers (shaman), the queen, drone
 
 Castes that have buff abilities that only buff themselves are not to recieve buff abilities that can buff other xenos.
 
+Shields, or buffs like them, exist to give xenos more durability and strength - basically to increase their survivability not in the form of a simple heal. It should be clear to players when this xeno is more durable, and should also not persist off the frontline or majorly interfere with how you fight a specific caste when they are applied. 
+
+A "buff ability" is a replacement for shields, and is the name that is used to refer to any ability that can replace shields.
+
+Clarity stacks are limited effect stacks that let xenos resist minor stuns, can be seen on boxer warrior. These can be used as replacement buffs for shields
+
+Warden is a xeno that can provide, as one of its abilities, short-term buffs or heals. (not long term spam shields)
+
+Shaman is a xeno that can provide, as one of its abilities, short-term AOE buffs or AOE heals. (not long term shields for the entire hive such as in hijack)
+
+Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambusher role with a preferably higher focus on frontlining. It is not a xeno that can easily stay far away from the main frontline without nearby weeds or assistance like lurker, it is not a xeno that can very easily disengage and run away like lurker. 
+
 ## Specific changes (preliminary ideas)
 
 Shields to be removed from all but crusher, rav
@@ -85,7 +85,7 @@ Bad alternatives:
 
 1. "Just change shields to extra health" - doesn't give them a telegraph, is equally inconsistent and has the same problems as shields
 
-2. "Just fix the problems with shields" - boring, would result in the game being even more arcade-y (shields are already EXTREMELY arcade-y), the goal of rectifying the reasons for this rework to buff abilities can't really be accomplished without it.
+2. "Just fix the problems with shields" - boring, would result in the game being even more arcade-y (shields are already EXTREMELY arcade-y), the goal of rectifying the reasons for this shift to buff abilities can't really be accomplished without it.
 
 3. "Just give shields glows and nerf them slightly" - see above
 
