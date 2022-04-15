@@ -36,12 +36,4 @@ Disabling redundant/impossible to find chemicals generating in recipes so you do
 Decrease the cost of buying chemical papers so they can be worthwile to get.
 Numerous fixes that have been bugging the department for some time.
 
-## Potential Changes
 
-1. Tweak the properties to be less/more powerful (In case of certain properties being way too OP or barely useful)
-
-2. Tweak spray bottle code to provide more chemicals per "injection" (In case if injecting chemicals by using spray bottles is seen too weak, however should be still weaker than using pills and syringes)
-
-3. Provide some way for xenos to slow down Research indirectly (In case if time won't be enough for xenomorphs to deal with it)
-
-4. Include more ways to obtain CL 3+ chemicals (In case there are severe lack of CL 3+ chemical papers/vials available on maps)
