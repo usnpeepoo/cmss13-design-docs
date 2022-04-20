@@ -22,7 +22,4 @@ Roleplay role similar to CL but gets their own vendor and armor for deployment, 
 This is such a specific role niche that thinking of an alternative is very difficult, Head dev specifically requested the ability to choose alignment at roundstart as such removing that feature isn't possible. The only other suggested change was to remove their weaponry, which wouldn't do much of anything other than forcing them to head to req at roundstart.
 
 ## Potential Changes
-Gear may need to be tweaked to be appropriate for the role. 
-Camera might need to be tweaked to be more unique from other variations.
-Sprites could be changed depending on feedback from reviewers.
-Role may face issues that CL faces like people complaining about lack of an incentive to do things.
+Role may face issues that CL faces like people complaining about lack of an incentive to do things. More features to encourage creatively and roleplay could be added to combat this, though it's a difficult issue to solve.
