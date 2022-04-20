@@ -91,13 +91,17 @@ Bad alternatives:
 
 ## Potential Changes
 
-1. Change the type of replacement abilities / buffs that warden + shaman get
+Thing that could go wrong - xenos become underpowered due to not having frontline durability/specific castes become underpowered
 
-2. Let the shield fruit stay
+How to fix - marine nerfs to things like AP ammo.
 
-3. Make some marine balance changes, such as an m2c nerf or AP nerf
+Thing that could go wrong - the buff abilities are too powerful and make xenos even more robust than before
 
-4. Give additional buffs to xenos to compensate
+How to fix - tune down their power.
+
+Thing that could go wrong - buff abilities become eclipsed by other strains and castes
+
+How to fix - specific buffs to buff abilities.
 
 ## Misc reasons why shields in their state as of March 2022 are bad (for posterity, no strong need to read)
 
