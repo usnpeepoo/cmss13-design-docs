@@ -42,6 +42,8 @@ Varied types of buff ability to be made (clarity, speed boosts, etc) and given t
 
 Buff abilities to be limited to praetorians, carriers (shaman), the queen, drone (gardener), and potentially other castes that already have buff abilities. Shaman carrier and Warden prae **must** recieve new buff abilities or offensive abilities to compensate for their loss of shields.
 
+Buff abilities that can be used at a range, are expected to be weaker than melee range ones. Ones with a channel can be stronger. Ones that can be used through overwatch should be made weaker when used in this state or limited to the queen.
+
 Castes that have buff abilities that only buff themselves are not to recieve buff abilities that can buff other xenos.
 
 Shields, or buffs like them, exist to give xenos more durability and strength - basically to increase their survivability not in the form of a simple heal. It should be clear to players when this xeno is more durable, and should also not persist off the frontline or majorly interfere with how you fight a specific caste when they are applied. 
@@ -50,7 +52,7 @@ A "buff ability" is a replacement for shields, and is the name that is used to r
 
 Clarity stacks are limited effect stacks that let xenos resist minor stuns, can be seen on boxer warrior. These can be used as replacement buffs for shields
 
-Warden is a xeno that can provide, as one of its abilities, short-term buffs or heals. (not long term spam shields)
+Warden is a xeno that can provide, as one of its abilities, short-term buffs or heals. Heals from it need to be partly "over-time" and not entirely up-front health dumped into the xeno. (not long term spam shields)
 
 Shaman is a xeno that can provide, as one of its abilities, short-term AOE buffs or AOE heals. (not long term shields for the entire hive such as in hijack)
 
@@ -58,15 +60,13 @@ Warrior is a xeno that is hard to kill in a 1v1 and takes a frontliner / ambushe
 
 ## Specific changes (preliminary ideas)
 
-Shields to be removed from all but crusher, rav
+Shields to be removed from all but crusher, rav. Remaining shields in any area MUST have audio or visual cues.
 
 Warden shield - replace with a speed boost / warrior clarity stacks / fire extinguish? -> a buff that helps xenos at the front line, and can help them while they are at full health
 
 Carrier shield - replace with aoe clarity stacks / a 10s aoe clarity effect / slash damage -> some other kind of buff that makes xenos better offensively
 
-Vanguard can prob keep shield since it’s just a one free hit mechanic 
-
-Warrior should prob get like 5 extra armour and not get the health nerf from !2501
+Vanguard can prob keep shield since it’s just a one free hit mechanic, but it should also have a slight visual cue, such as a special overlay or something.
 
 Base Prae shield from spit also needs to be removed, it’s not super significant so maybe just a tiny health buff, but can prob be just fine with no change
 
