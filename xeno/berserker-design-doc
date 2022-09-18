@@ -1,0 +1,34 @@
+## Abstract
+
+Berserker is in a really pathetic state, as of right now. Both hedgehog, and base ravager have shown to be extremely powerful (the latter receiving multiple buffs) and berserker has been left in the dust
+It has major flaws, that are unoptimized for current CM marine DPS, and is generally unfun and mechanically (Despite having eviscerate) unrewarding to play due to how weak you are.
+
+
+## Goals
+
+
+1: Reduce, or remove certain flaws within berserkers kit that are either mechanically punishing, unrewarding, or near useless.
+
+2: Allow berserkers kit to be more rewarding, have more freedom mid combat, and at least contend at a level near Base Ravager, and Hedgehog.
+
+3: Allow berserker to be more in-tune with being an all slashing, fight continuously strain, by reducing the horrendously long downtimes.
+
+## Non-goals
+
+1: Buff berserkers kit to be unkillable, and unpunishable.
+
+2: Cause berserker to be more powerful than Base Ravager, and Hedgehog.
+
+3: Allow berserker to be in-fight 24/7, and making its down time near nothing.
+
+## Content
+
+I'll explain my reasoning for each change one by one.
+
+1: For rage lock, the timer on it was exceedingly long. Not only were you locked out any form of healing, and your armor, you were also unable to use clothesline (you're only form of heal outside of slashes). This lock out is by far the most punishing aspect of Berserkers kit (something neither Base rav with its lingering shield, and Hedgehog with its speed buff after spike usage had) and prevented berserker from reaching any form of potential it could possibly have. I've also included a glow, during this rage lock for QOL, and for marines to have a better heads-up of when the Berserker is at its most vulnerable.
+
+2: Apprehend is one of the worst engages in the game. It is a 15~ cooldown ability that locks onto a single marine that at times, can only be used on the closest marine on the front to even get near said front. This is an extreme restriction on Berserker which I believe plays apart in the mechanically unrewarding aspect of the strain. You can't always choose who you want to lock on, and the marine is always slowed regardless if it hits or not. By changing it into a speed boost and slow on slash (with a timer on both), Berserker apprehend suddenly opens up a new door of slashing choices, and potential disengage. The disengage, through lowering the cooldown slightly, allows the ravager to either continue moving forward and being rewarded with another slow and potential kill, or try and out run any chasers (Not invincible or instant). I don't believe berserker being forced to not have any form of disengage is a genuine argument as (although CM is assymetrical) both Base Ravager and Hedgehog have it in some aspect.
+
+3: Clothesline, by itself is terrible. The heal (which is delayed like lifesteal) is weak, and is chunked away near instantly, it's also locked out during rage lock where you're unable to gain a rage stack and are forced to wait it out until you can gain lifesteal/stacks. By allowing the ravager to use the ability for a smaller health gain, without being forced to use a rage stack or using a stack to heal more, I believe berserkers are given a much more intuitive choice than simply either using it during rage/being forced to not use it during rage lock.
+
+4: Finally, Eviscerate. contending with rage lock, eviscerate is a simple noob trap. Not only is it entirely useless without a queen/extreme setup (marines slowed, mass aoe stun, etc) it is also a huge noob trap for first time strain takers who immediately get out DPS'd during the root and can't escape in time, or simply die on the spot. By giving it a lifesteal aspect, where-in the more marines in a 1 tile range, the more health you gain when you slash, Berserkers eviscerate is not only actually usable outside of said setups (queen most specifically), and Berserker is actually able to continue reaping rewards for hitting a good eviscerate.
